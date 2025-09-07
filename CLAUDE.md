@@ -160,3 +160,9 @@ src/components/chat/
 - **React Components**: UI component behavior and rendering
 - **Context Providers**: State management and data flow
 - **JSX Transformer**: Code transformation utilities
+```
+
+## Coding Preferences
+
+- **Async/Await Preference**: Prefer using `async/await` over traditional promise chaining
+- Prefer `async/await` > than traditional promise chaining
